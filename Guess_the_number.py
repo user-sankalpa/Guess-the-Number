@@ -13,4 +13,5 @@ while(secret_number!=user_input):
     else:
           print("No, You are wrong. Number is bigger than secret number.")
           
+guessses=str(guessses)
 print(f"You guessed it correct in {guessses} guesses")
