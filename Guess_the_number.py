@@ -13,4 +13,4 @@ while(secret_number!=user_input):
     else:
           print("No, You are wrong. Number is bigger than secret number.")
           
-print(f"You guessed it correct in {guessses} guesses")
+print("You guessed it correct in", guessses, "guesses")
