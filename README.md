@@ -4,7 +4,7 @@
 
 ## Installing (Linux/ Termux)
 ```sh
-git clone https://github.com/thecyberbreaches/Guess-the-Number.git
+git clone https://github.com/user-sankalpa/Guess-the-Number.git
 cd Guess-the-Number
 python Guess_the_Number.py
 ```
